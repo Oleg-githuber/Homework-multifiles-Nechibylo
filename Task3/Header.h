@@ -1,6 +1,7 @@
 // Подключение заголовков
 #pragma once
 
+#include <clocale>
 
 #include "Figure.h"
 
@@ -16,4 +17,3 @@
 #include "Rhombus.h"
 
 #include "PrintInfo.h"
-#include <clocale>
